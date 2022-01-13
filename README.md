@@ -9,6 +9,9 @@ The diagram of the adaptive feature crosses.
 
 Requirements
 ------------
-Python2.7<br>
-Numpy<br>
+Python3.6.13<br>
+Numpy1.17.0<br>
+Pandas1.1.5<br>
+xgboost1.4.2<br>
+
 
