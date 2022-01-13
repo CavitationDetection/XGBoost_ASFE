@@ -3,3 +3,6 @@ A novel acoustic signal cavitation detection framework–based on XGBoost with a
 
 The diagram of the adaptive feature aggregation.
 ![image](https://github.com/CavitationDetection/XGBoost_ASFE/blob/main/FeatureAggregation.png)
+
+
+![image](https://github.com/CavitationDetection/XGBoost_ASFE/blob/main/FeatureCrosses.png)
