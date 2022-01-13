@@ -9,6 +9,6 @@ The diagram of the adaptive feature crosses.
 
 Requirements
 ------------
-Python2.7\<br>
-Numpy\<br>
+Python2.7<br>
+Numpy<br>
 
