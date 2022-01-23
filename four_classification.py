@@ -7,8 +7,8 @@ from sklearn.metrics import precision_score,accuracy_score,recall_score,f1_score
 from sklearn.metrics import auc
 from sklearn.utils import shuffle
 
-train_data = pd.read_csv("/home/yusha/yusha/cavitation2017/code/feature_classify/splitdata/Four/Features/Split20/train_split_feature10_transform.csv")
-test_data = pd.read_csv("/home/yusha/yusha/cavitation2017/code/feature_classify/splitdata/Four/Features/Split20/test_split_feature10_transform.csv")
+train_data = pd.read_csv("train_feature_transform.csv")
+test_data = pd.read_csv("test_feature_transform.csv")
 
 train_data = shuffle(train_data)
 x_train = train_data.iloc[:,0:4961]  
