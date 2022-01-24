@@ -7,8 +7,6 @@ import pandas as  pd
 import matplotlib.pyplot as plt
 import math
 import csv
-import warnings
-warnings.filterwarnings("ignore")
 '''
 1. Central Trend Statistics:
    --- mean 
