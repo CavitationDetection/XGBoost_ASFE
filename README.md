@@ -14,6 +14,17 @@ Numpy1.17.0<br>
 Pandas1.1.5<br>
 xgboost1.4.2<br>
 
-If you find this code helpful, please cite our paper: 
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@article{sha2022acoustic,
+  title={An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering},
+  author={Sha, Yu and Faber, Johannes and Gou, Shuiping and Liu, Bo and Li, Wei and Shramm, Stefan and Stoecker, Horst and Steckenreiter, Thomas and Vnucec, Domagoj and Wetzstein, Nadine and others},
+  journal={Measurement},
+  pages={110897},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 
 
