@@ -19,7 +19,7 @@ If you find our work useful in your research, please consider citing:
 ```
 @article{sha2022acoustic,
   title={An acoustic signal cavitation detection framework based on XGBoost with adaptive selection feature engineering},
-  author={Sha, Yu and Faber, Johannes and Gou, Shuiping and Liu, Bo and Li, Wei and Shramm, Stefan and Stoecker, Horst and Steckenreiter, Thomas and Vnucec, Domagoj and Wetzstein, Nadine and others},
+  author={Sha, Yu and Faber, Johannes and Gou, Shuiping and Liu, Bo and Li, Wei and Shramm, Stefan and Stoecker, Horst and Steckenreiter, Thomas and Vnucec, Domagoj and Wetzstein, Nadine and Widl Andreas and Zhou Kai},
   journal={Measurement},
   pages={110897},
   year={2022},
