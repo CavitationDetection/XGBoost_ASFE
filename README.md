@@ -1,10 +1,9 @@
 # XGBoost_ASFE
 [[Project Page]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122001798) || [[arXiv]](https://arxiv.org/abs/2202.13226)
 
-<br>
 ![image](https://github.com/CavitationDetection/XGBoost_ASFE/blob/main/FeatureAggregation.png)
 Figure 1: The diagram of the adaptive feature aggregation.
-<br>
+
 ![image](https://github.com/CavitationDetection/XGBoost_ASFE/blob/main/FeatureCrosses.png)
 Figure 2: The diagram of the adaptive feature crosses.
 
