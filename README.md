@@ -23,7 +23,7 @@ xgboost1.4.2<br>
 
 [7.3.2022] Adding a citation for a preprinted version. Our paper has been accepted by Measurement Journal.
 
-[8.3.2022] Adding Add a link to our paper (Measurement Journal and arXiv).
+[8.3.2022] Adding a link to our paper (Measurement Journal and arXiv).
 
 
 For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
