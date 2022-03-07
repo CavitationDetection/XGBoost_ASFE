@@ -7,6 +7,8 @@ Figure 1: The diagram of the adaptive feature aggregation.
 ![image](https://github.com/CavitationDetection/XGBoost_ASFE/blob/main/FeatureCrosses.png)
 Figure 2: The diagram of the adaptive feature crosses.
 
+[[Project Page]](https://www.sciencedirect.com/science/article/abs/pii/S0263224122001798) [[arXiv]](https://arxiv.org/abs/2202.13226)
+
 Requirements
 ------------
 Python3.6.13<br>
