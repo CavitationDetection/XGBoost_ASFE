@@ -14,6 +14,8 @@ Numpy1.17.0<br>
 Pandas1.1.5<br>
 xgboost1.4.2<br>
 
+For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
