@@ -14,6 +14,14 @@ Numpy1.17.0<br>
 Pandas1.1.5<br>
 xgboost1.4.2<br>
 
+
+## Updates
+
+[7.2.2022] For the time being, All codes are uploaded.
+
+[7.3.2022] Adding a citation for a preprinted version. Our paper has been accepted by Measurement Journal.
+
+
 For any queries, please feel free to contact YuSha et al. through yusha20211001@gmail.com
 
 ## Citation
